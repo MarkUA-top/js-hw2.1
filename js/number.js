@@ -4,7 +4,6 @@ let C = 1
 C = 10
 let F = C * 1.8 + 32
 console.log(F)
-
 //------------------
 
 // фаренгейти в цельсії
@@ -13,6 +12,7 @@ console.log(F)
 // F = 50
 // let C = (F - 32) / 1.8
 // console.log(C)
+console.log("кінець")
 
 //---------------------------------------------
 
@@ -25,6 +25,7 @@ console.log(dayInMonth)
 // //хвилин в місяці
 dayInMonth *= 60
 console.log(dayInMonth)
+console.log("кінець")
 
 //---------------------------------------------
 
@@ -33,9 +34,11 @@ health -= 3
 let energy = 10
 energy -= 3
 console.log(health, energy)
+console.log("кінець")
 
 //---------------------------------------------
 
 let cart = 100
 cart = cart / 10 * 9
 console.log(cart)
+console.log("кінець")
