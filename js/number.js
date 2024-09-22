@@ -59,8 +59,8 @@
 
 //---------------------------------------------
 
-const number = "22px"
-const numberInt = Number.parseInt(number)
+const number = "22px";
+const numberInt = Number.parseInt(number);
 console.log(numberInt)
-const numberString = Number.toString(numberInt)
+const numberString = numberInt.toString();
 console.log(numberString)
