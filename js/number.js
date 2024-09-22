@@ -59,8 +59,24 @@
 
 //---------------------------------------------
 
-const number = "22px";
-const numberInt = Number.parseInt(number);
-console.log(numberInt)
-const numberString = numberInt.toString();
-console.log(numberString)
+// const number = "22px";
+// const numberInt = number.parseInt(number);
+// console.log(numberInt)
+// console.log(typeof numberInt)
+
+// const numberString = numberInt.toString();
+// console.log(numberString)
+// console.log(typeof numberString)
+
+//---------------------------------------------
+
+// const mathFloor = Math.floor(1.598)
+// console.log(mathFloor)
+
+//---------------------------------------------
+
+// const mathSqrt = Math.sqrt(4)
+// console.log(mathSqrt)
+
+//---------------------------------------------
+
